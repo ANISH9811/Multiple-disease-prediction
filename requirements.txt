@@ -12,3 +12,4 @@ pandas-datareader
 pandas
 numpy==1.25.0
 matplotlib
+streamlit_option_menu
