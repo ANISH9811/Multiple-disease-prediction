@@ -1,9 +1,7 @@
 yfinance==0.2.38
 urllib3
-
 tensorflow==2.15.0
 keras==2.15.0
-
 stack-data
 streamlit
 rsa
@@ -14,6 +12,3 @@ pandas-datareader
 pandas
 numpy==1.25.0
 matplotlib
-
-
-streamlit_option_menu
